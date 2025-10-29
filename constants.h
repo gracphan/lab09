@@ -1,0 +1,1 @@
+const int NUM_GRADES = 10;
